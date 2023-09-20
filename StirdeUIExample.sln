@@ -1,0 +1,11 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 16
+VisualStudioVersion = 16.0.0.0
+MinimumVisualStudioVersion = 16.0.0.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StirdeUIExample.Windows", "StirdeUIExample.Windows\StirdeUIExample.Windows.csproj", "{08A92C0B-F952-4CC7-8586-3EC101FBF8E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StirdeUIExample", "StirdeUIExample\StirdeUIExample.csproj", "{8C1CF6EF-C19E-410D-8B43-0A1ABCEDF1E9}"
+EndProject
+Global
+EndGlobal
